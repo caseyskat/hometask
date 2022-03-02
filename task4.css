@@ -1,0 +1,17 @@
+address, time{
+    text-align: right;
+  line-height: 25px;
+  font-style: normal;
+}
+.data{
+    text-align: right;
+}
+.address{
+    text-align: left;
+}
+.text{
+    text-align: right;
+}
+section{
+line-height: 30px;
+}
