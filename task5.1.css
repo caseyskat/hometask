@@ -1,12 +1,4 @@
-@font-face{
-  font-family: "Amaranth";
-  src: local("Amaranth Regular"),
-  local("Amaranth-Regular"),
-  url("https://fonts.googleapis.com/css2?family=Amaranth&family=Roboto+Slab&family=Vollkorn+SC:wght@400;600&display=swap.woff2") format("woff2"),
-  url("https://fonts.googleapis.com/css2?family=Amaranth&family=Roboto+Slab&family=Vollkorn+SC:wght@400;600&display=swap.woff") format("woff"),
-  url("https://fonts.googleapis.com/css2?family=Amaranth&family=Roboto+Slab&family=Vollkorn+SC:wght@400;600&display=swap.svg") format("svg");
-font-weight: normal;
-}
+
 h1 {
   text-decoration-line: underline;
   text-decoration-skip-ink: none;
@@ -17,7 +9,7 @@ h1 {
     
 }
 p{
-  font-size: 10px;
+  font-size: 12px;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 25px;
 }
