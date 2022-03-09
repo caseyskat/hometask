@@ -1,12 +1,4 @@
-@font-face{
-    font-family: Vollkorn SC;
-    src: local("Vollkorn SC Regular"),
-    local("Vollkorn SC-Regular"),
-    url("https://fonts.google.com/specimen/Vollkorn+SC?preview.text=%D0%B1%D0%B5%D0%BB%D0%B8%D1%87%D1%8C%D0%B8%D1%85%D0%BA%20%D1%83%D0%91&preview.text_type=custom.woff2") format("woff2"),
-    url("https://fonts.google.com/specimen/Vollkorn+SC?preview.text=%D0%B1%D0%B5%D0%BB%D0%B8%D1%87%D1%8C%D0%B8%D1%85%D0%BA%20%D1%83%D0%91&preview.text_type=custom.woff") format("woff"),
-    url("https://fonts.google.com/specimen/Vollkorn+SC?preview.text=%D0%B1%D0%B5%D0%BB%D0%B8%D1%87%D1%8C%D0%B8%D1%85%D0%BA%20%D1%83%D0%91&preview.text_type=custom.svg") format("svg");
-  font-weight: regular;
-}
+
 header h1{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
