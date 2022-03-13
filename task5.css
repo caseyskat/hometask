@@ -1,0 +1,21 @@
+
+header h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+text-decoration: overline;
+font-family: Vollokrn SC bold;
+text-transform: lowercase, capitalize;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+line-height: 25pt;
+text-indent: 5%;
+font-family: Vollokrn SC;
+text-transform: capitalize;
+}
+main h1{
+    color: red;
+    text-align: center;
+    font-family: Vollokrn SC;
+    text-transform: uppercase;
+}
