@@ -1,0 +1,26 @@
+
+ul{
+    font-size: 14pt;
+    text-transform: uppercase;
+  
+}
+li{
+    display: inline-block;
+    margin: 0px 20px;
+    border-right: 2px solid gray;
+}
+a{
+    background-image: url('https://cdn4.iconfinder.com/data/icons/user-interface-33/80/Home-512.png');
+    padding: 15px;
+    display: inline-block;
+    margin-right: 10px;
+    
+    border: 1px solid none;
+    border-radius: 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+  width: 10px;
+  height: 10px;
+
+}
